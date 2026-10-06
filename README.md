@@ -10,7 +10,7 @@ Ciao! Sono **Francesco Larossa**, sistemista. Su **[sysadmin-italia.it](https://
 
 | | |
 |---|---|
-| ⚙️ **[Script gratuiti](https://sysadmin-italia.it/script-gratuiti/)** | 120 script PowerShell pronti da usare, con guida e PDF |
+| ⚙️ **[Script gratuiti](https://sysadmin-italia.it/script-gratuiti/)** | Script PowerShell pronti da usare, con guida e PDF |
 | 📘 **[Guide](https://sysadmin-italia.it/guide/)** | Procedure passo passo su AD, Windows Server, M365, rete, VMware, database |
 | 📰 **[Notizie](https://sysadmin-italia.it/notizie/)** | Le novità IT che contano per chi gestisce infrastrutture |
 | 👤 **[Chi sono](https://sysadmin-italia.it/chi-sono/)** | Il progetto e chi c'è dietro |
