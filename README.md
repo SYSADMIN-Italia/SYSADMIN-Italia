@@ -22,8 +22,12 @@ Ciao! Sono **Francesco Larossa**, sistemista. Su **[sysadmin-italia.it](https://
 ### 📘 Ultime guide dal sito
 
 <ul>
-<!-- BLOG-POST-LIST:START -->
-<li><a href="https://sysadmin-italia.it/guide/">Vai alle guide su sysadmin-italia.it</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://sysadmin-italia.it/come-organizzare-una-libreria-di-script-aziendale-condivisa-e-documentata/">Come organizzare una libreria di script aziendale condivisa e documentata</a></li>
+<li><a href="https://sysadmin-italia.it/come-versionare-i-propri-script-con-git/">Come versionare i propri script con Git</a></li>
+<li><a href="https://sysadmin-italia.it/come-costruire-un-sistema-di-alert-personalizzato-multi-canale/">Come costruire un sistema di alert personalizzato multi-canale</a></li>
+<li><a href="https://sysadmin-italia.it/come-automatizzare-il-rinnovo-di-certificati-ssl-in-scadenza/">Come automatizzare il rinnovo di certificati SSL in scadenza</a></li>
+<li><a href="https://sysadmin-italia.it/come-usare-convertto-json-e-convertfrom-json-per-scambiare-dati-tra-sistemi/">Come usare ConvertTo-Json e ConvertFrom-Json per scambiare dati tra sistemi</a></li>
+<li><a href="https://sysadmin-italia.it/come-costruire-uno-script-di-onboarding-offboarding-completo/">Come costruire uno script di onboarding/offboarding completo</a></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
