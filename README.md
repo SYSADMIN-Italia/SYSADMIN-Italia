@@ -1,0 +1,32 @@
+<p align="center">
+  <a href="https://sysadmin-italia.it">
+    <img src="assets/banner-profilo.png" alt="SysAdmin Italia – Script, guide e strumenti per sistemisti IT">
+  </a>
+</p>
+
+Ciao! Sono **Francesco Larossa**, sistemista. Su **[sysadmin-italia.it](https://sysadmin-italia.it)** pubblico in italiano script PowerShell, guide operative e approfondimenti nati da problemi reali di infrastruttura.
+
+### 🔗 Sul sito
+
+| | |
+|---|---|
+| ⚙️ **[Script gratuiti](https://sysadmin-italia.it/script-gratuiti/)** | 120 script PowerShell pronti da usare, con guida e PDF |
+| 📘 **[Guide](https://sysadmin-italia.it/guide/)** | Procedure passo passo su AD, Windows Server, M365, rete, VMware, database |
+| 📰 **[Notizie](https://sysadmin-italia.it/notizie/)** | Le novità IT che contano per chi gestisce infrastrutture |
+| 👤 **[Chi sono](https://sysadmin-italia.it/chi-sono/)** | Il progetto e chi c'è dietro |
+
+### 📦 Repository
+
+**[sysadmin-italia-scripts](https://github.com/SYSADMIN-Italia/sysadmin-italia-scripts)**: tutti gli script del sito, divisi per categoria, con licenza MIT. Si aggiorna automaticamente ogni settimana.
+
+### 📰 Ultimi articoli dal sito
+
+<!-- BLOG-POST-LIST:START -->
+- [Vai agli articoli su sysadmin-italia.it](https://sysadmin-italia.it/)
+<!-- BLOG-POST-LIST:END -->
+
+<sub>Elenco aggiornato automaticamente ogni giorno dal feed del sito.</sub>
+
+---
+
+`Active Directory` · `Windows Server` · `PowerShell` · `Microsoft 365` · `Networking` · `VMware ESXi` · `SQL Server` · `Cyber Security`

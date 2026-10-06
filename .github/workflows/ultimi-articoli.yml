@@ -1,0 +1,21 @@
+name: Ultimi articoli dal sito
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # ogni giorno alle 05:17 UTC
+  workflow_dispatch:       # avvio manuale dalla scheda Actions
+
+permissions:
+  contents: write
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://sysadmin-italia.it/feed/"
+          max_post_count: 6
+          template: "- [$title]($url)$newline"
+          commit_message: "Aggiorna ultimi articoli dal sito"
