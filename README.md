@@ -21,8 +21,12 @@ Ciao! Sono **Francesco Larossa**, sistemista. Su **[sysadmin-italia.it](https://
 
 ### 📰 Ultimi articoli dal sito
 
-<!-- BLOG-POST-LIST:START -->
-- [Vai agli articoli su sysadmin-italia.it](https://sysadmin-italia.it/)
+<!-- BLOG-POST-LIST:START -->- [Confrontare due esportazioni di configurazione di rete](https://sysadmin-italia.it/confrontare-due-esportazioni-di-configurazione-di-rete/)
+- [Verifica di “salute” combinata su più sistemi](https://sysadmin-italia.it/verifica-di-salute-combinata-su-piu-sistemi/)
+- [Alert automatici su soglie di utilizzo risorse](https://sysadmin-italia.it/alert-automatici-su-soglie-di-utilizzo-risorse/)
+- [Job PowerShell schedulato con gestione degli errori](https://sysadmin-italia.it/job-powershell-schedulato-con-gestione-degli-errori/)
+- [Automatizzare l’inventario hardware/software di più macchine](https://sysadmin-italia.it/automatizzare-linventario-hardware-software-di-piu-macchine/)
+- [Sistema di logging centralizzato con rotazione automatica](https://sysadmin-italia.it/sistema-di-logging-centralizzato-con-rotazione-automatica/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>Elenco aggiornato automaticamente ogni giorno dal feed del sito.</sub>
