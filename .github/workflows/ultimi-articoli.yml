@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://sysadmin-italia.it/feed/"
+          feed_list: "https://sysadmin-italia.it/category/guide/feed/"
           max_post_count: 6
-          template: "- [$title]($url)$newline"
-          commit_message: "Aggiorna ultimi articoli dal sito"
+          template: "<li><a href=\"$url\">$title</a></li>$newline"
+          commit_message: "Aggiorna ultime guide dal sito"

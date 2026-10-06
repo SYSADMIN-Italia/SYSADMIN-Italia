@@ -19,17 +19,15 @@ Ciao! Sono **Francesco Larossa**, sistemista. Su **[sysadmin-italia.it](https://
 
 **[sysadmin-italia-scripts](https://github.com/SYSADMIN-Italia/sysadmin-italia-scripts)**: tutti gli script del sito, divisi per categoria, con licenza MIT. Si aggiorna automaticamente ogni settimana.
 
-### 📰 Ultimi articoli dal sito
+### 📘 Ultime guide dal sito
 
-<!-- BLOG-POST-LIST:START -->- [Confrontare due esportazioni di configurazione di rete](https://sysadmin-italia.it/confrontare-due-esportazioni-di-configurazione-di-rete/)
-- [Verifica di “salute” combinata su più sistemi](https://sysadmin-italia.it/verifica-di-salute-combinata-su-piu-sistemi/)
-- [Alert automatici su soglie di utilizzo risorse](https://sysadmin-italia.it/alert-automatici-su-soglie-di-utilizzo-risorse/)
-- [Job PowerShell schedulato con gestione degli errori](https://sysadmin-italia.it/job-powershell-schedulato-con-gestione-degli-errori/)
-- [Automatizzare l’inventario hardware/software di più macchine](https://sysadmin-italia.it/automatizzare-linventario-hardware-software-di-piu-macchine/)
-- [Sistema di logging centralizzato con rotazione automatica](https://sysadmin-italia.it/sistema-di-logging-centralizzato-con-rotazione-automatica/)
+<ul>
+<!-- BLOG-POST-LIST:START -->
+<li><a href="https://sysadmin-italia.it/guide/">Vai alle guide su sysadmin-italia.it</a></li>
 <!-- BLOG-POST-LIST:END -->
+</ul>
 
-<sub>Elenco aggiornato automaticamente ogni giorno dal feed del sito.</sub>
+<sub>Elenco aggiornato automaticamente ogni giorno dal feed delle guide del sito.</sub>
 
 ---
 
